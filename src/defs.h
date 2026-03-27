@@ -1,6 +1,6 @@
 #pragma once
 
-#include<vector>
+#include <vector>
 
-typedef char Base;
-typedef std::vector<int> GeneSequence;
+using Base = char;
+using GeneSequence = std::vector<int>;
